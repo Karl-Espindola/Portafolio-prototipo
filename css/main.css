@@ -58,7 +58,9 @@
 	background-size:cover;
 	padding-top: 20px;
 }
-
+.imgslider{
+	width:100%;
+}
 .slider{margin:10px;}
 .pagination ol{display:inline-block;}
 .pagination ol li{display:inline-block;margin:5px;}
